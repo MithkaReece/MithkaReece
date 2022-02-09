@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @MithkaReece
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on nothing atm
 - 📫 How to reach me reece.waite1@gmail.com
 
 <!---
